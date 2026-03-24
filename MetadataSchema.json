@@ -1,0 +1,62 @@
+{
+  "identification": {
+    "result": null,
+    "project": null,
+    "study": null,
+    "experiment": null,
+    "run": null,
+    "sample": null,
+    "batch": null,
+    "lab": null,
+    "parent_result": null
+  },
+
+  "instrument_acquisition": {
+    "instrument_id": null,
+    "instrument_type": null,
+    "instrument_model": null,
+    "instrument_run": null,
+    "instrument_settings": {
+      "_comment": null
+    },
+    "acquisition_timestamp_utc": null,
+    "checksum_sha256": null
+  },
+
+  "biological_context": {
+    "protocol": null,
+    "protocol_version": null,
+    "process_phase": null,
+    "data_intent": null,
+    "cell_line": null,
+    "donor": null,
+    "lot": null,
+    "operator": null,
+    "analyst": null
+  },
+
+  "reagents": [
+    {
+      "name": null,
+      "lot_number": null
+    }
+  ],
+
+  "materials": [
+    {
+      "material_type": null,
+      "lot_number": null
+    }
+  ],
+
+  "sample_preparation": {
+    "prep_protocol_id": null,
+    "prep_timestamp_utc": null,
+    "prep_operator": null
+  },
+
+  "data_quality": {
+    "data_level": null,
+    "qc_status": null
+  }
+}
